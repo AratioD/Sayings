@@ -16,6 +16,14 @@
         <servlet-name>dispatcher</servlet-name>
         <url-pattern>*.htm</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>sayingsInputPage</servlet-name>
+        <jsp-file>sayingsInputPage.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>sayingsInputPage</servlet-name>
+        <url-pattern>/sayingsInputPage</url-pattern>
+    </servlet-mapping>
     <session-config>
         <session-timeout>
             30
