@@ -24,6 +24,14 @@
         <servlet-name>sayingsInputPage</servlet-name>
         <url-pattern>/sayingsInputPage</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>welcomePage</servlet-name>
+        <jsp-file>welcomePage.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>welcomePage</servlet-name>
+        <url-pattern>/welcomePage</url-pattern>
+    </servlet-mapping>
     <session-config>
         <session-timeout>
             30
