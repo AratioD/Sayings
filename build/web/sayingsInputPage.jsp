@@ -14,7 +14,7 @@
     <body>
     <Center><H1>Input your saying</h1></Center>
 
-    <form action="/action_page.php">
+    <form action="/sayingsInput">
         Sayings in Finnish: <input type="text" name="FirstName" value=""><br>
         Sayings in English: <input type="text" name="LastName" value=""><br>
         <input type="submit" value="Submit">

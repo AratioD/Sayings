@@ -5,8 +5,13 @@
         <group>
             <file>file:/home/antti/Dropbox/Programming/ownprojects/Sayings/web/WEB-INF/applicationContext.xml</file>
             <file>file:/home/antti/Dropbox/Programming/ownprojects/Sayings/web/WEB-INF/web.xml</file>
+            <file>file:/home/antti/Dropbox/Programming/ownprojects/Sayings/src/java/hello/Application.java</file>
             <file>file:/home/antti/Dropbox/Programming/ownprojects/Sayings/web/welcomePage.jsp</file>
+            <file>file:/home/antti/Dropbox/Programming/ownprojects/Sayings/src/java/hello/MessagePrinter.java</file>
+            <file>file:/home/antti/Dropbox/Programming/ownprojects/Sayings/nbproject/build-impl.xml</file>
             <file>file:/home/antti/Dropbox/Programming/ownprojects/Sayings/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/home/antti/Dropbox/Programming/ownprojects/Sayings/web/sayingsInputPage.jsp</file>
+            <file>file:/home/antti/Dropbox/Programming/ownprojects/Sayings/src/java/hello/MessageService.java</file>
         </group>
     </open-files>
 </project-private>
